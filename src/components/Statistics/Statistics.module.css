@@ -1,0 +1,14 @@
+.Statistics {
+    padding-left: 100px;
+    text-align: left;
+}
+
+.Statistics__item {
+    font-size: large;
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+
+.Statistics__itemValue {
+    font-weight: bold;
+}

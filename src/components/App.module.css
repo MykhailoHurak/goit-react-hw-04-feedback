@@ -1,0 +1,36 @@
+.Feedback {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: whitesmoke;
+}
+
+.Section__title {
+    font-size:xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ButtonBox {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Button {
+    height: 40px;
+    width: 120px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 2px solid black;
+    background-color: orange;
+    cursor: pointer;
+}
+
+.Statistics__item {
+    font-size: large;
+    list-style-type: none;
+}
+
+.Statistics__itemValue {
+    font-weight: bold;
+}
